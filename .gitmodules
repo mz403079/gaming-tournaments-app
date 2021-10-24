@@ -1,0 +1,3 @@
+[submodule "gaming-tournaments-frontend"]
+	path = gaming-tournaments-frontend
+	url = https://github.com/mz403079/gaming-tournaments-frontend.git
